@@ -1,0 +1,4 @@
+.env
+sentiment_LSTM_model_new1.h5
+text_generation_LSTM_model.h5
+sentiment_LSTM_model.h5

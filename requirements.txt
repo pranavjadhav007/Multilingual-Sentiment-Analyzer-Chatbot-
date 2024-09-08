@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain_community
+langchain_core
+langchain_text_splitters
+langchain_groq
+detectlanguage
+deep-translator
+tensorflow
+pickle
+numpy
+nltk
+datasets
+huggingface_hub
