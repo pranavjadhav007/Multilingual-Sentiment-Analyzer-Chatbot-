@@ -1,6 +1,9 @@
 Model Training File:
 https://drive.google.com/file/d/1xtN12HGrxIWQGJbUwNRxFWKQNwpMltOX/view?usp=drive_link
 
+Model Weights:
+https://drive.google.com/file/d/1JndFxbtfkjCb_vRT1C15t-1vBbRa4fbB/view?usp=drive_link
+
 <br>
 
 <h1><b>Output:</b></h1>
